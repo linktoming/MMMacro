@@ -8,7 +8,7 @@ Include the head files in your .pch file and set the DEBUG flag for debug config
 ##Reference:
 1. [How to print out the method name and line number and conditionally disable NSLog?][1]
 2. [How to Do Dynamic Debug Logging in Released Application][2]
-3. [MY CURRENT PREFIX.PCH FILE][3]
+3. [My current prefix.pch file][3]
 
 
 [1]: http://stackoverflow.com/questions/969130/how-to-print-out-the-method-name-and-line-number-and-conditionally-disable-nslog 
